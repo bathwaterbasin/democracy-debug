@@ -1,6 +1,6 @@
 # Democracy Debug
 
-*Democracy needs alterations. We're the tailors. Bring your governance, we'll make it fit.*
+*"Democracy needs updates. We're the tailors. Bring your governance, we'll tailor it for the times."*
 
 ## What This Is
 
