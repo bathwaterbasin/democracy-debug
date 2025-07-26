@@ -4,7 +4,7 @@
 
 ## What This Is
 
-I'm running against my childhood friend Mike for US Senate in North Carolina while endorsing him. 
+I'm running against my childhood friend Mike for US Senate in North Carolina while endorsing him. I knew Mike as kids in Michigan. We both ended up in North Carolina with our families. He's become exactly the kind of leader this state develops. I'm running to make sure our political conversation is worthy of the moment we're actually facing.
 
 Mike represents the best of current democratic institutions. I'm exploring what comes after those institutions evolve.
 
