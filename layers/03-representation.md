@@ -1,4 +1,4 @@
-# Layer 3: Aggregation - The Preference Collapse
+# Layer 3: Aggregation - The Trust Problem
 
 ## The Core Question
 Why do we force complex human preferences into binary yes/no choices when we have technology that could capture nuanced positions?
@@ -10,21 +10,21 @@ Why do we force complex human preferences into binary yes/no choices when we hav
 Binary choices collapse nuanced preferences artificially. Real human preferences are multidimensional and contextual. "Yes/no on this 500-page bill" isn't how humans actually think about problems. We need preference mapping, not forced simplification.
 
 ## Deeper Still
-Forced simplification serves those who benefit from crude policy. When you can only choose between two predetermined options, whoever controls what those options are controls the outcome. Binary aggregation manufactures consent for decisions that don't reflect actual popular preferences.
+Forced simplification serves those who benefit from crude policy. When you can only choose between two predetermined options, whoever controls what those options are controls the outcome. The complexity gets front-loaded into option creation (controlled by elites) while choice gets artificially simplified.
 
 ## Even Deeper
-Current aggregation systems are designed to make meaningful choice impossible. The complexity gets front-loaded into the option creation process (controlled by elites), while the choice process gets artificially simplified (to create illusion of democratic input).
+We force binary choices because we don't trust people to handle complexity, and we don't trust systems to aggregate complexity fairly. The simplification isn't about technical limitations - it's about trust limitations.
 
 ## Bedrock
-Aggregation systems are designed to manufacture consent for predetermined outcomes, not discover genuine popular will. Binary voting exists to limit democratic expression to choices that don't threaten existing power arrangements.
+Binary aggregation exists because we're afraid of what democracy would look like if we actually trusted it. We've never tried true preference aggregation at scale, so we don't know what would happen if people could express exactly what they want. The binary system protects us from discovering what genuine democratic will actually looks like.
 
 ## Technical Solution Needed
-Multi-dimensional preference capture systems that can handle complexity while producing actionable decisions.
+Multi-dimensional preference capture systems that can handle complexity and unknown outcomes without predetermined constraints.
 
 ## Questions for Further Analysis
-- How do we aggregate complex preferences without creating paralysis?
-- What would policy look like if it reflected actual popular preference distributions?
-- How do we prevent complex aggregation from being gamed by sophisticated actors?
+- What are we afraid will happen if people can express full preferences?
+- How do we build systems that can handle unknown democratic outcomes?
+- What would policy look like if it reflected actual preference distributions rather than forced choices?
 
 ## Contribute
-What's beneath this bedrock? How else does binary aggregation distort democratic will?
+What's beneath this bedrock? What else are we afraid to trust about democratic expression?
